@@ -3,3 +3,11 @@ git status-------> list all untracked files
 
 git add -A--------->adding a;ll files to staging area
 git commit -m"message"------>moving staged files to local repoesitry
+
+git clone -----> remote repositary to local space
+git push------->local space to remote repositary
+git pull ------>remote repositart to local workspace
+
+git remote add name remote_path
+
+git remote -v -------> list all remote names
