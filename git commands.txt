@@ -1,3 +1,5 @@
+  GIT COMMANDS
+
 git init----->git initializing
 git status-------> list all untracked files
 
